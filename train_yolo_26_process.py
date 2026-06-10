@@ -166,7 +166,7 @@ class TrainYolo26Factory(dataprocess.CTaskFactory):
         self.info.name = "train_yolo_26"
         self.info.short_description = "Train YOLO26 object detection models."
         self.info.path = "Plugins/Python/Detection"
-        self.info.version = "1.0.0"
+        self.info.version = "1.1.0"
         self.info.min_ikomia_version = "0.16.0"
         self.info.icon_path = "images/icon.png"
         self.info.authors = "Jocher, G., Chaurasia, A., & Qiu, J"
